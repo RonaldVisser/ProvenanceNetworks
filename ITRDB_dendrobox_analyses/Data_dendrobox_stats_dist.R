@@ -42,6 +42,3 @@ ggplot(distance_statistics_pisy, aes(x=distance_m, y=sgc)) + geom_point() + scal
 ggsave("Distance_SGC_PISY.png")
 ggplot(distance_statistics_pisy, aes(x=distance_m, y=sgc)) + geom_point() + scale_x_continuous(label=unit_format(unit="km", scale=0.001)) + stat_smooth()
 ggsave("Distance_SGC_PISY_trend.png")
-#distance_statistics <- read.csv("E:/Proefschrift/Schrijfwerk/Artikel_NetworkMeans/Dendrobox_github_20180917/distance_statistics.csv")
-#ggplot(distance_statistics, aes(x=distance_m, y=r)) + geom_point() 
-#cor

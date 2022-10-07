@@ -1,5 +1,7 @@
 # ProvenanceNetworks
 
+<a href="https://zenodo.org/badge/latestdoi/388805511"><img src="https://zenodo.org/badge/388805511.svg" alt="DOI"></a>
+
 This repository consists of:
 
 CompareSeries:

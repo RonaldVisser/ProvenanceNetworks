@@ -1,4 +1,4 @@
-# ProvenanceNetworks
+# Dendrochronological Provenance Patterns. Code and Data of Network Analysis of Tree-Ring Material
 
 <a href="https://zenodo.org/badge/latestdoi/388805511"><img src="https://zenodo.org/badge/388805511.svg" alt="DOI"></a>
 
